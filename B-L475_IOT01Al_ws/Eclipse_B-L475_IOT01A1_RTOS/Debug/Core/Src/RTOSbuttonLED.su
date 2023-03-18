@@ -1,0 +1,7 @@
+RTOSbuttonLED.c:79:6:setGPIO_ODR	16	static
+RTOSbuttonLED.c:84:6:clrGPIO_ODR	16	static
+RTOSbuttonLED.c:89:10:pollGPIO_IDR	16	static
+RTOSbuttonLED.c:94:6:greenLED_ONorOFF	16	static
+RTOSbuttonLED.c:104:6:buttonLED	8	static
+RTOSbuttonLED.c:119:6:RTOSbutton	16	static
+RTOSbuttonLED.c:129:6:RTOSgreenLED	16	static

@@ -1,0 +1,9 @@
+adc.c:30:6:MX_ADC1_Init	48	static
+adc.c:129:6:HAL_ADC_MspInit	56	static
+adc.c:176:6:HAL_ADC_MspDeInit	16	static
+adc.c:211:6:selectADC_A0	32	static
+adc.c:224:6:selectADC_A1	32	static
+adc.c:238:6:selectADC_A2	32	static
+adc.c:251:6:selectADC_A3	32	static
+adc.c:264:6:selectADC_A4	32	static
+adc.c:277:6:selectADC_A5	32	static

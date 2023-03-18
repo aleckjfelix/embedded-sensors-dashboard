@@ -1,0 +1,6 @@
+sensors.c:44:6:Pressure_Test	16	static
+sensors.c:83:6:Humidity_Test	16	static
+sensors.c:122:6:Temperature_Test	16	static
+sensors.c:166:6:Accelero_Test	16	static
+sensors.c:206:6:Gyro_Test	16	static
+sensors.c:247:6:Magneto_Test	16	static

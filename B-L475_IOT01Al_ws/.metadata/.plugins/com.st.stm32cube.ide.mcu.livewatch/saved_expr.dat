@@ -1,0 +1,8 @@
+defaultTask_Profiler
+temperatureTask_Profiler
+humidityTask_Profiler
+pressureTask_Profiler
+magnetoTask_Profiler
+gyroTask_Profiler
+acceleroTask_Profiler
+sendMsgTask_Profiler

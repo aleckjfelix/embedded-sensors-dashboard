@@ -1,0 +1,32 @@
+2022-05-17 02:47:24,614 [INFO] Activator:177 - 
+
+
+2022-05-17 02:47:24,614 [INFO] Activator:178 - !SESSION log4j initialized
+2022-05-17 02:47:26,426 [ERROR] AnalyticsContext:980 - The ST intranet updater server is unknown: mcucrossselector.codex.cro.st.com
+2022-05-17 05:30:49,387 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Option com.st.stm32cube.ide.mcu.gnu.managedbuild.option.target_mcu.2077701597.1188784814 uses a null category that is invalid in its context. The option was ignored.
+2022-05-17 05:30:49,387 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Option com.st.stm32cube.ide.mcu.gnu.managedbuild.option.target_cpuid.881583444.1484821695 uses a null category that is invalid in its context. The option was ignored.
+2022-05-17 05:30:49,731 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Option com.st.stm32cube.ide.mcu.gnu.managedbuild.option.target_coreid.443053394.1052625742 uses a null category that is invalid in its context. The option was ignored.
+2022-05-17 05:30:49,731 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Option com.st.stm32cube.ide.mcu.gnu.managedbuild.option.fpu.1654811101.607983090 uses a null category that is invalid in its context. The option was ignored.
+2022-05-17 05:30:49,746 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Option com.st.stm32cube.ide.mcu.gnu.managedbuild.option.floatabi.1986026884.97578271 uses a null category that is invalid in its context. The option was ignored.
+2022-05-17 05:30:49,761 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Option com.st.stm32cube.ide.mcu.gnu.managedbuild.option.target_board.1632103712.1812753153 uses a null category that is invalid in its context. The option was ignored.
+2022-05-17 05:30:49,761 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Option com.st.stm32cube.ide.mcu.gnu.managedbuild.option.defaults.436881462.915007957 uses a null category that is invalid in its context. The option was ignored.
+2022-05-18 09:56:55,944 [INFO] Activator:177 - 
+
+
+2022-05-18 09:56:55,961 [INFO] Activator:178 - !SESSION log4j initialized
+2022-05-18 09:57:02,643 [ERROR] AnalyticsContext:980 - The ST intranet updater server is unknown: mcucrossselector.codex.cro.st.com
+2022-05-18 10:42:06,959 [INFO] Activator:177 - 
+
+
+2022-05-18 10:42:06,991 [INFO] Activator:178 - !SESSION log4j initialized
+2022-05-18 10:42:32,213 [ERROR] AnalyticsContext:980 - The ST intranet updater server is unknown: mcucrossselector.codex.cro.st.com
+2022-05-18 13:02:21,687 [INFO] Activator:177 - 
+
+
+2022-05-18 13:02:21,696 [INFO] Activator:178 - !SESSION log4j initialized
+2022-05-18 13:02:36,114 [ERROR] AnalyticsContext:980 - The ST intranet updater server is unknown: mcucrossselector.codex.cro.st.com
+2022-05-18 19:28:00,710 [INFO] Activator:177 - 
+
+
+2022-05-18 19:28:00,726 [INFO] Activator:178 - !SESSION log4j initialized
+2022-05-18 19:28:23,314 [ERROR] AnalyticsContext:980 - The ST intranet updater server is unknown: mcucrossselector.codex.cro.st.com

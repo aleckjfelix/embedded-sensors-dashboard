@@ -1,0 +1,7 @@
+RTOSADC.c:28:6:RTOSsampleADC_A0	32	static
+RTOSADC.c:54:6:RTOSsampleADC_A1	32	static
+RTOSADC.c:81:6:RTOSsampleADC_A2	32	static
+RTOSADC.c:108:6:RTOSsampleADC_A3	32	static
+RTOSADC.c:134:6:RTOSsampleADC_A4	32	static
+RTOSADC.c:161:6:RTOSsampleADC_A5	32	static
+RTOSADC.c:192:6:RTOSTransmitUSART1	32	static
